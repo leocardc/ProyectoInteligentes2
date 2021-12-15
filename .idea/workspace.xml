@@ -40,7 +40,7 @@
       <recent name="C:\Users\Lenovo\PycharmProjects\Inteligentes2\ServerFolder" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cargarProfe">
+  <component name="RunManager" selected="Python.Servidor">
     <configuration name="Servidor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Inteligentes2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,8 +160,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cargarProfe" />
         <item itemvalue="Python.Servidor" />
+        <item itemvalue="Python.cargarProfe" />
         <item itemvalue="Python.deteccionFigurasReal" />
         <item itemvalue="Python.convertir" />
       </list>
